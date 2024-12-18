@@ -4,3 +4,4 @@ transformers
 plotly
 scholarly
 requests
+matplotlib
