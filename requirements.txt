@@ -6,3 +6,5 @@ scholarly
 requests
 matplotlib
 tensorflow
+keras
+tf-keras
