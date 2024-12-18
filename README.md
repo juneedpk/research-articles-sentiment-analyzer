@@ -34,4 +34,4 @@ This Streamlit application analyzes the sentiment of research publications using
 
 ## GitHub
 
-[Link to GitHub repository](https://github.com/juneedpk/research-articles-sentiment-analyzer)
+[Link to WEB APP](https://sentidoc.streamlit.app/)
