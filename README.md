@@ -29,7 +29,7 @@ This Streamlit application analyzes the sentiment of research publications using
 
 ## Developer Info
 
--   Created by: Your Name
+-   Created by: Junaid Amin
 -   Version: 1.0.0
 
 ## GitHub
