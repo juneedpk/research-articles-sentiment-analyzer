@@ -5,3 +5,4 @@ plotly
 scholarly
 requests
 matplotlib
+tensorflow==2.0
